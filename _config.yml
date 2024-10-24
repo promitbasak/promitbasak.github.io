@@ -1,0 +1,98 @@
+### your site title here
+
+title: Promit Basak
+description: Graduate @ University of Dhaka
+subdescription: Research Assistant @ Qatar University | ML Engineer @ mPower Social
+
+baseurl: "" #name of GitHub repository
+url: "" #custom url to be used instead of GitHub repository
+email: "basakpromit@gmail.com"
+
+# Pagination
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
+
+# Social media links in footer
+twitter: ~
+linkedin: "promitbasak/"
+stackoverflow: "13513074/promit-basak"
+github: "promitbasak"
+researchgate: "Promit-Basak"
+orcid: "0000-0002-1594-0850"
+quora: ~
+instagram: ~
+facebook: "promitbasakjoy"
+
+# Markdown
+highlighter: rouge
+markdown: kramdown
+
+# Tracker
+analytics:
+
+# optimization -> compress.html
+compress_html:
+  clippings:
+    [
+      html,
+      div,
+      p,
+      ul,
+      td,
+      h1,
+      h2,
+      h3,
+      h4,
+      link,
+      meta,
+      footer,
+      nav,
+      img,
+      header,
+      hr,
+      br,
+      head,
+      style,
+      li,
+      ul,
+      ol,
+      time,
+      main,
+      script,
+      title,
+    ]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+#collection
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+    order:
+      - PediatricTrauma.md
+      - MRISegmentation.md
+      - pandoo.md
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - README.md
+  - LICENSE.md
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-email-protect
+  - jekyll-target-blank
