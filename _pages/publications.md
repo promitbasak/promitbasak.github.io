@@ -4,6 +4,10 @@ permalink: /publications/
 title: Publications
 ---
 
+# Publications
+
+<hr class="thin-hr-line">
+
 - Promit Basak, Rusab Sarmun, Saidul Kabir, Israa Al-Hashimi, Enamul Hoque Bhuiyan, Anwarul Hasan, Muhammad Salman Khan, Muhammad E. H. Chowdhury,
   **Machine-agnostic Automated Lumbar MRI Segmentation using a Cascaded Model Based on Generative Neurons**,
   In revision.

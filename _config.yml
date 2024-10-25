@@ -76,9 +76,18 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - PediatricTrauma.md
-      - MRISegmentation.md
+      - pediatric_trauma.md
+      - MRI_segmentation.md
       - pandoo.md
+      - adventitious_lung_sound.md
+      - cattle_identification.md
+      - fetal_ECG.md
+      - HAR_wifi_CSI.md
+      - bento_recognition.md
+      - transportation_recognition.md
+      - nursing_HAR.md
+      - vehicle_detection.md
+      - redirect.md
 
 sass:
   sass_dir: /assets/css/_sass

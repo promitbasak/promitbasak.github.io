@@ -8,9 +8,13 @@ asset:
 
 # Research
 
+<hr class="thin-hr-line">
+
 My research is centered around advancing **deep learning**, **computer vision**, and **healthcare**, with the goal of exploring both foundational developments and transformative applications. I am particularly interested in how these technologies can be applied to solve some of the most pressing challenges in healthcare, human-computer interaction, and beyond.
 
-### **AI in Healthcare**
+<br>
+
+### **<u>AI in Healthcare</u>**
 
 <img title="AI Healthcare" alt="AI Healthcare" src="/assets/images/AI healthcare.png" width="50%">
 
@@ -18,7 +22,9 @@ Healthcare presents one of the most impactful applications of deep learning, and
 
 For example, I’ve worked on deep learning models to reconstruct fetal ECG signals from non-invasive abdominal recordings and to segment vertebrae and discs from lumbar MR images. In the future, I want to explore how **self-supervised learning** and **domain adaptation** can be used to further enhance the accuracy and generalizability of medical AI systems across diverse populations. I’m also deeply interested in exploring how **`multimodal learning`**—integrating image, signal, and clinical data—can create more holistic and precise medical models.
 
-### **Computer Vision**
+<br>
+
+### **<u>Computer Vision</u>**
 
 <img title="Vision" alt="Vision" src="/assets/images/Vision.png" width="50%">
 
@@ -26,7 +32,9 @@ Computer vision has the power to transform how machines perceive and interpret t
 
 From **`object detection`** to **`complex scene understanding`**, I see immense potential in areas like `autonomous systems` and `remote sensing`. In the near future, I aim to explore how we can leverage **`neural radiance fields (NeRFs)`** and **`transformer-based architectures`** to achieve breakthroughs in high-fidelity visual reconstruction and real-time object tracking.
 
-### **Multimodal Sensing**
+<br>
+
+### **<u>Multimodal Sensing</u>**
 
 <img title="Sensing" alt="Sensing" src="/assets/images/Sensing.png" width="50%">
 
@@ -34,7 +42,9 @@ Beyond visual data, I believe the future of intelligent systems lies in **multim
 
 In the future, I want to extend this work to **`sensor fusion`**, developing models that can seamlessly integrate data from various sources, such as cameras, microphones, and environmental sensors, to provide a more comprehensive understanding of context. This has significant applications in areas like **`smart environments`**, **`health monitoring`**, and **`assistive technologies`**, where understanding human behavior is key to improving quality of life.
 
-### **Ethics and Fairness in AI**
+<br>
+
+### **<u>Ethics and Fairness in AI</u>**
 
 <img title="Ethical AI" alt="Ethical AI" src="/assets/images/Ethical AI.png" width="50%">
 
@@ -42,7 +52,9 @@ As AI systems become more integrated into our daily lives, ensuring their fairne
 
 Looking forward, I’m excited to explore **`algorithmic transparency`**, **`fair model evaluation`**, and the development of datasets that are more representative of various populations. By doing so, I aim to contribute to the creation of AI systems that are not only powerful but also just and equitable.
 
-### **Future Research Directions**
+<br>
+
+### **<u>Future Research Directions</u>**
 
 My vision for the future is to continue developing AI technologies that can operate in complex, real-world environments. Some key questions I aim to address include:
 

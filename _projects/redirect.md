@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Click to Redirect to Project
-description: with no page entry here
-redirect: https://unsplash.com
+title: "Dokto: Healthcare management site"
+description: <u>Click to redirect</u>
+redirect: https://dokto.cssninja.io/
 ---

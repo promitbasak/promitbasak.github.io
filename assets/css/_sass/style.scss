@@ -116,6 +116,19 @@ blockquote {
   }
 }
 
+.headline, .project-headline {
+  font-size: 1.5em;
+  margin-bottom: -0.4em;
+
+  @include media-query($on-palm) {
+    font-size: 1.5em;
+  }
+}
+
+.thin-hr-line {
+  border: 0.5px solid $brand-color-thin;
+}
+
 /* Pagination style in index/home page */
 .pagination {
   margin: 2em 0;

@@ -5,6 +5,10 @@ permalink: /projects/
 published: true
 ---
 
+# Projects
+
+<hr class="thin-hr-line">
+
 <div class="ProjectContainer">
 
     <div class="gallery">
@@ -18,7 +22,7 @@ published: true
           <span>
               <h2>{{ project.title }}</h2>
               <br/>
-              <p>{{ project.description }}</p>
+              <p>{{ project.description | markdownify }}</p>
           </span>
           </a>
   </div>
