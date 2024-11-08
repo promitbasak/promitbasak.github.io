@@ -10,7 +10,7 @@ title: Education
 
 ### **Bachelor of Science in Electrical and Electronic Engineering (EEE)**
 
-**[University of Dhaka](http://du.ac.bd/)** &#124; **2018 - 2023**
+**[University of Dhaka](http://du.ac.bd/)** &#124; **2018 - 2022**
 
 <img title="DU" alt="DU" src="/assets/images/du.png" width="25%">
 
