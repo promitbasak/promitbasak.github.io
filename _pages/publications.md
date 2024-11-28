@@ -8,6 +8,8 @@ title: Publications
 
 <hr class="thin-hr-line">
 
+### Journal/conferences
+
 - **Machine-agnostic Automated Lumbar MRI Segmentation using a Cascaded Model Based on Generative Neurons**,
   Promit Basak, Rusab Sarmun, Saidul Kabir, Israa Al-Hashimi, Enamul Hoque Bhuiyan, Anwarul Hasan, Muhammad Salman Khan, Muhammad E. H. Chowdhury,
   Expert Systems with Applications, Volume 264, 2025. [Q1, IF: 7.5 (2024)] <br>
@@ -30,10 +32,24 @@ title: Publications
 
 - **A Windowless Approach to Recognize Various Modes of Locomotion and Transportation**,
   Promit Basak, Shahamat Mustavi Tasin, A.H.M. Nazmus Sakib, Syed Doha Uddin, and Md Atiqur Rahman Ahad,
-  In Proceedings of UbiComp/ISWC ’21 Adjunct, 2021, Association for Computing Machinery. <br>
+  In Proceedings of UbiComp/ISWC'21 Adjunct, 2021, Association for Computing Machinery. <br>
   <code>&nbsp;<b><a href="https://doi.org/10.1145/3460418.3479385" target="_blank">DOI</a></b>&nbsp;</code>&nbsp;&nbsp;<code>&nbsp;<b><a href="{{site.baseurl}}/assets/files/transportation_mode_recognition.pdf" target="_blank">PDF</a></b>&nbsp;</code>
 
 - **Complex Nurse Care Activity Recognition using Statistical Features**,
   Promit Basak, Shahamat Mustavi Tasin, Malisha Islam Tapotee, Md. Mamun Sheikh, A. H. M. Nazmus Sakib, Sriman Bidhan Baray, and Md Atiqur Rahman Ahad,
-  In Proceedings of UbiComp/ISWC '20 Adjunct, 2020, Association for Computing Machinery. <br>
+  In Proceedings of UbiComp/ISWC'20 Adjunct, 2020, Association for Computing Machinery. <br>
   <code>&nbsp;<b><a href="https://doi.org/10.1145/3410530.3414338" target="_blank">DOI</a></b>&nbsp;</code>&nbsp;&nbsp;<code>&nbsp;<b><a href="{{site.baseurl}}/assets/files/nurse_care_activity.pdf" target="_blank">PDF</a></b>&nbsp;</code>
+
+<br>
+
+### Thesis/Project reports
+- **An Embedded Approach to Fall Detection and Human Activity Recognition using Wi-Fi Channel State Information**,
+  Promit Basak, Nazmus Sakib, Md Shafiul Alam,
+  First senior Project, 
+  University of Dhaka. <br>
+  <code>&nbsp;<b><a href="{{site.baseurl}}/assets/files/csi_fall_detection.pdf" target="_blank">PDF</a></b>&nbsp;</code>&nbsp;&nbsp;
+
+- **A non-invasive fetal heart monitoring system using 1D-Cycle-GAN**,
+  Promit Basak, Nazmus Sakib, Md Shafiul Alam,
+  Second senior Project, 
+  University of Dhaka. <br>

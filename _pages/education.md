@@ -12,16 +12,19 @@ title: Education
 
 **[University of Dhaka](http://du.ac.bd/)** &#124; **2018 - 2022**
 
-<img title="DU" alt="DU" src="/assets/images/du.png" width="25%">
+<img title="DU" alt="DU" src="/assets/images/du.png" width="20%">
 
-Graduated with a strong foundation in electrical engineering and an emphasis on computer science, achieving top grades in projects and courses related to **intelligent systems** and **multimodal sensing**. Key academic highlights include:
+**CGPA**: **3.63** out of 4.00 <br>
+**Major**: Computer <br>
+**Minor**: Communication <br>
 
-- **Thesis Projects**:
+
+**Thesis Projects**:
   - Developed a **Wi-Fi Channel State Information (CSI) model** for human activity recognition, demonstrating new ways to monitor activity through wireless signals.
   - Designed a framework for **fetal ECG extraction** from maternal ECG, which received high praise and led to a publication in a **Q1 journal**.
     <br> <br>
 
-### **Online Coursework in Computer Science**
+<!-- ### **Online Coursework in Computer Science**
 
 To further prepare for graduate studies in Computer Science, I completed several advanced MOOCs to strengthen my programming and theoretical background:
 
@@ -30,4 +33,4 @@ To further prepare for graduate studies in Computer Science, I completed several
 - **[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)** – Dr. Wayne and Dr. Sedgewick, Princeton University
 - **[Mathematics For Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/)** – Dr. Leighton and van Dijk, MIT OpenCourseWare
 
-This additional coursework helped me bridge the gap between my electrical engineering background and advanced computer science, equipping me with strong fundamentals for deep learning, data structures, and algorithmic thinking.
+This additional coursework helped me bridge the gap between my electrical engineering background and advanced computer science, equipping me with strong fundamentals for deep learning, data structures, and algorithmic thinking. -->

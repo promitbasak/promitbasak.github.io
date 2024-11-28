@@ -16,7 +16,7 @@ My research is centered around advancing **deep learning**, **computer vision**,
 
 ### **<u>AI in Healthcare</u>**
 
-<img title="AI Healthcare" alt="AI Healthcare" src="/assets/images/AI healthcare.png" width="50%">
+<img title="AI Healthcare" alt="AI Healthcare" src="/assets/images/AI healthcare.png" width="25%">
 
 Healthcare presents one of the most impactful applications of deep learning, and my research in **Biomedical AI** aims to push the boundaries of what's possible in **`medical diagnostics`** and **`treatment planning`**. I am focused on developing models that can analyze medical images and signals, providing non-invasive solutions for `early diagnosis` and `personalized care`.
 
@@ -26,7 +26,7 @@ For example, I’ve worked on deep learning models to reconstruct fetal ECG sign
 
 ### **<u>Computer Vision</u>**
 
-<img title="Vision" alt="Vision" src="/assets/images/Vision.png" width="50%">
+<img title="Vision" alt="Vision" src="/assets/images/Vision.png" width="25%">
 
 Computer vision has the power to transform how machines perceive and interpret the world, and my research focuses on developing more adaptable and **`intelligent vision`** and **`vision-language systems`** systems. I’m particularly drawn to the challenge of making vision models more `robust, scalable, and capable` of working across varying environments.
 
@@ -36,7 +36,7 @@ From **`object detection`** to **`complex scene understanding`**, I see immense 
 
 ### **<u>Multimodal Sensing</u>**
 
-<img title="Sensing" alt="Sensing" src="/assets/images/Sensing.png" width="50%">
+<img title="Sensing" alt="Sensing" src="/assets/images/Sensing.png" width="25%">
 
 Beyond visual data, I believe the future of intelligent systems lies in **multimodal sensing**, where diverse data sources such as `Wi-Fi signals`, `IMU sensors`, and `acoustic data` are combined to create richer and more accurate models of human behavior and activity. My past work on **Wi-Fi-based human activity recognition** and **packaging activity recognition** explored how ambient signals can be used to recognize human activities without relying on wearable sensors.
 
@@ -46,7 +46,7 @@ In the future, I want to extend this work to **`sensor fusion`**, developing mod
 
 ### **<u>Ethics and Fairness in AI</u>**
 
-<img title="Ethical AI" alt="Ethical AI" src="/assets/images/Ethical AI.png" width="50%">
+<img title="Ethical AI" alt="Ethical AI" src="/assets/images/Ethical AI.png" width="25%">
 
 As AI systems become more integrated into our daily lives, ensuring their fairness and ethical deployment is crucial. I am committed to addressing the biases that can arise in AI models, particularly in domains like `healthcare` and `social systems`, where biased outcomes can have serious consequences. My ongoing work focuses on applying **`fairness-aware algorithms`** to real-world datasets, ensuring that AI systems perform well across diverse demographic groups.
 
@@ -62,4 +62,4 @@ My vision for the future is to continue developing AI technologies that can oper
 - What are the implications of AI in decision-making, and how can we build systems that are both `efficient` and `ethically responsible`?
 - How can we expand multimodal learning to integrate even more diverse sources of information, leading to richer and more `context-aware intelligent systems`?
 
-Through this research, I aim to push the boundaries of AI in ways that are both innovative and grounded in real-world impact.
+<!-- Through this research, I aim to push the boundaries of AI in ways that are both innovative and grounded in real-world impact. -->
