@@ -8,6 +8,14 @@ href="mailto:{{ site.email | encode_email }}" target="_blank">
 </a>
 {%- endif -%}
 
+{%- if site.scholar -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Google Scholar' }}"
+class="social-button scholar" 
+href="https://scholar.google.com/citations?user={{ site.scholar }}&hl=en" itemprop="sameAs" target="_blank">
+<i class="fab fa-google-scholar"></i>
+</a>
+{%- endif -%}
+
 {%- if site.linkedin -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'LinkedIn' }}"
 class="social-button linkedin"

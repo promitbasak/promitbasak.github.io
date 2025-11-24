@@ -1,8 +1,8 @@
 ### your site title here
 
 title: Promit Basak
-description: Graduate @ University of Dhaka
-subdescription: Research Assistant @ Qatar University | ML Engineer @ mPower Social
+description: PhD Student @ the University of Texas at Arlington
+subdescription: Graduate @ University of Dhaka | Research Assistant @ Qatar University
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -23,6 +23,7 @@ orcid: "0000-0002-1594-0850"
 quora: ~
 instagram: ~
 facebook: "promitbasakjoy"
+scholar: "npJ3kCAAAAAJ"
 
 # Markdown
 highlighter: rouge
