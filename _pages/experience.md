@@ -8,9 +8,23 @@ title: Experience
 
 <hr class="thin-hr-line">
 
+
+### **<u>Graduate Teaching Assistant</u>**
+
+**The University of Texas at Arlington** | **August 2025 - Present**
+
+<img title="UTA" alt="UTA" src="/assets/images/uta.png" width="10%">
+
+I have been working as a GTA in the department of Computer Science and Engineering at UTA since Fall 2025. I have conducted classes, provided introductory lectures and helped students understand specific concepts and evaluated the exam scripts and assignments. So far, I worked/am working as a GTA for the following courses:
+- CSE 1006: Introduction to Computer Science.
+- CSE 4380: Information Security.   
+
+<br>
+
+
 ### **<u>Research Assistant</u>**
 
-**Qatar University** (Remote) | **July 2022 - Present**
+**Qatar University** (Remote) | **July 2022 - July 2025**
 
 <img title="QU" alt="QU" src="/assets/images/qulogo.png" width="25%">
 
@@ -24,7 +38,7 @@ I’ve had the opportunity to work as a Research Assistant at Qatar University, 
 
 ### **<u>Machine Learning Engineer</u>**
 
-**mPower Social Enterprises Ltd** | **June 2022 - Present**  
+**mPower Social Enterprises Ltd** | **June 2022 - July 2025**  
 <img title="mpower" alt="mpower" src="/assets/images/mpower.png" width="25%">
 
 At mPower, I worked on several impactful AI-driven projects, applying deep learning and computer vision to real-world challenges. My primary responsibilities included building and deploying machine learning models, collaborating with cross-functional teams, and contributing to the overall architecture of AI solutions. Key projects include:

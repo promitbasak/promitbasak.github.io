@@ -8,7 +8,23 @@ title: Education
 
 <hr class="thin-hr-line">
 
-### **Bachelor of Science in Electrical and Electronic Engineering (EEE)**
+### **PhD in Computer Science**
+
+**[The University of Texas at Arlington](http://uta.edu/)** &#124; **2025 - Current**
+
+<img title="UTA" alt="UTA" src="/assets/images/uta.png" width="20%">
+
+**CGPA**: Not available yet! <br>
+
+
+**Projects**:
+  - Utility-Preserving Privacy Protection for EMG–based Sensor Fusion.
+  - Safeguarding Musical Intellectual Property from Generative AI.
+    <br> <br>
+
+<hr class="thin-hr-line">
+
+### **Bachelor of Science in Electrical and Electronic Engineering**
 
 **[University of Dhaka](http://du.ac.bd/)** &#124; **2018 - 2022**
 
